@@ -10,6 +10,8 @@
 
 // K_THREAD_DEFINE(liikennevalot_thread, STACKSIZE, valotila_task, NULL, NULL, NULL, PRIORITY, 0, 0);
 
+// Unohdin palautuksen laittaa kun loin tätä ennen lomaa. Tähtäsin tällä tuotoksella muistaakseni 2:een pisteeseen.
+
 // Main program
 int main(void) {
     printk("Koitetaan rullaa softaa.\n");
